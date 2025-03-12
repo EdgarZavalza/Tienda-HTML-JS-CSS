@@ -1,0 +1,23 @@
+.img-producto{
+    object-fit: cover;
+    width: 412px;   /* o el tamaño que necesites */
+    height: 200px;  /* o el tamaño que necesites */
+}
+
+
+body{
+    background-color: #d7462d;
+}
+
+.container{
+    background-color: aliceblue;
+    margin: 0 auto;
+    object-fit: cover;
+    border-radius: 2%;
+    padding: 1%;
+}
+
+.card-description{
+    text-align: justify;
+}
+
